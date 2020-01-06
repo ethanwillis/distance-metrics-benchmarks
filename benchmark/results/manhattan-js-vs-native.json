@@ -1,0 +1,27 @@
+{
+  "name": "Manhattan JS vs. Manhattan Native",
+  "date": "2020-01-06T04:47:28.671Z",
+  "version": "chart.html",
+  "results": [
+    {
+      "name": "Manhattan Distance -- JS",
+      "ops": 4,
+      "margin": 1.56,
+      "percentSlower": 0
+    },
+    {
+      "name": "Manhattan Distance -- Native",
+      "ops": 0,
+      "margin": 6.81,
+      "percentSlower": 100
+    }
+  ],
+  "fastest": {
+    "name": "Manhattan Distance -- JS",
+    "index": 0
+  },
+  "slowest": {
+    "name": "Manhattan Distance -- Native",
+    "index": 1
+  }
+}
